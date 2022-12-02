@@ -90,7 +90,6 @@ Por padrão o navegador pode adicionar alguns estilos, então para fazer o reset
 ```
 
 <aside>
-❓ Se você ficou com dúvida sobre o trecho de código acima, no curso do Discover "Uma caixa dentro da outra" tem várias dicas que podem te ajudar.
 
 [](https://app.rocketseat.com.br/node/uma-caixa-dentro-da-outra)
 
@@ -109,7 +108,6 @@ As cores usada no exemplo são as seguintes:
 - Outros textos: `#39393A`;
 
 <aside>
-❓ Para ver mais sobre como trabalhar com cores no CSS:
 
 [](https://app.rocketseat.com.br/node/agora-sim-cores)
 
@@ -160,7 +158,6 @@ Lembrando também que deve ser usado **ponto** e não vírgula.
 </aside>
 
 <aside>
-❓ Para ver mais sobre como trabalhar com textos nos CSS:
 
 [](https://app.rocketseat.com.br/node/app-bonito-ate-nos-textos)
 
@@ -171,9 +168,6 @@ Lembrando também que deve ser usado **ponto** e não vírgula.
 No exemplo acima foi usado a propriedade `line-height` nas listas de ingredientes e modo de preparo. O valor usado foi de 26px.
 
 <aside>
-❓ Nessa aula você pode ver mais sobre a propriedade `line-height`:
-
-[](https://app.rocketseat.com.br/node/app-bonito-ate-nos-textos/group/mais-estilos-para-os-textos/lesson/line-height-e-text-transform)
 
 </aside>
 
@@ -191,10 +185,7 @@ Existem diversas opções para alinhar elementos ao centro da página, algumas f
 - Para **alinhar textos** e muitas vezes alguns outros elementos podemos usar  a propriedade `text-align: center;` , essa propriedade também aceita os valores start | end | left | right | center | justify | match-parent, então já fica aí a dica de como alinhar a legenda da imagem a direita (right). 😉
     
     <aside>
-    ❓ Nessa aula você pode ver mais sobre a propriedade `text-align`:
-    
-    [](https://app.rocketseat.com.br/node/app-bonito-ate-nos-textos/group/mais-estilos-para-os-textos/lesson/text-align)
-    
+  
     </aside>
     
 - Para alinhar outros tipos de elementos você pode tentar usar a propriedade `margin: 0 auto;`, por exemplo. Você pode adicionar qualquer valor de top e bottom, o importante é deixar como `auto`os valores de left e right. Também é importante lembrar que o width do elemento deve ser menor do que o da página para que seja possível visualizar o alinhamento ao centro.
