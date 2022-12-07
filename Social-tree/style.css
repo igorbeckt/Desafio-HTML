@@ -1,0 +1,80 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+
+    font-size: 62.5%; /* 1rem = 10px */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 1.6rem; /* 16px */
+    
+}
+
+.container, .profile, .link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    
+    background: var(--body-bg-color);
+}
+
+.profile {
+    width: 21.3rem;
+    height: 21.3rem;
+
+    border: 2px solid var(--purple);
+    border-radius: 50%;
+}
+
+.profile img { 
+    width: 20rem;
+    height: 20rem;
+
+    border-radius: 50%;
+}
+
+.username, .link {
+    color: var(--purple);
+    line-height: 2.4rem;
+}
+
+.username {
+    font-weight: 300;
+
+    margin-top: 1.5rem;
+    margin-bottom: 3.3rem;
+}
+
+.link {
+    width: 32.6rem;
+    height: 4.9rem;
+
+    border: 0.2rem solid var(--purple);
+    border-radius: 0.4rem;
+
+    font-weight: 600;
+    text-transform: uppercase;
+
+    margin-bottom: 1rem;
+}
+
+.icons{
+    display: flex;
+    gap: 2.9rem;
+
+    margin-top: 5.2rem;
+}
