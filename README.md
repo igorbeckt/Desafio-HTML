@@ -36,7 +36,7 @@ Objetivo: criar um quiz de perguntas e respostas, contendo no mínimo 3 pergunta
 ## ROCKETNEWS
 Objetivo: Desenvolva uma página web simples utilizando HTML e CSS que servirá no futuro para captação de leads ou inscrição em newsletter.
 
-<img src="[https://github.com/igorbeckt/Desafio-HTML/blob/master/Contact/assets/pronto.png?raw=true](https://github.com/igorbeckt/Desafios-HTML-CSS/blob/master/RocketNews/assets/pronto.png?raw=true)">
+<img src="https://github.com/igorbeckt/Desafios-HTML-CSS/raw/master/RocketNews/assets/pronto.png?raw=true">
 
 
 ## SHOPPING LIST
@@ -49,4 +49,4 @@ Objetivo: criar uma lista de compras contendo no mínimo 4 itens.
 Social Tree
 Objetivo: criar uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 
-<img src="https://github.com/igorbeckt/Desafio-HTML/raw/master/Quiz/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-HTML-CSS/blob/master/Social-tree/assets/pronto.png?raw=true">
