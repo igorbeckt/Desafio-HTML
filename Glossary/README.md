@@ -1,6 +1,8 @@
 # Desafio-HTML
 Desafios HTML do Discover da Rocketseat. É uma série de desafios básicos para que você possa praticar seus conhecimentos em HTML. Teste suas habilidades nas tags HTML mais utilizadas no dia a dia do Desenvolvimento Web.
 
+<img src="https://github.com/igorbeckt/Desafio-HTML/blob/master/Glossary/assets/pronto.png?raw=true">
+
 1. Glossário
 Objetivo: criar um glossário com no mínimo 4 tags HTML e suas definições.
 
