@@ -1,6 +1,6 @@
 # social-tree
 Desafio "Social Tree" do Discover da Rocketseat. Desafio: Neste desafio você deve criar uma página com uma lista de links que pode ser usada em perfis de redes sociais.
-<img src="https://github.com/igorbeckt/Desafio-HTML/raw/master/Quiz/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-HTML-CSS/blob/master/Social-tree/assets/pronto.png?raw=true">
 
 **Requisitos para o desafio:**
 
