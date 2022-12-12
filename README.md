@@ -1,6 +1,6 @@
 # DESAFIOS HTML+CSS
 
-## Lista de todos os projetos:
+Todos os projetos incluso neste repositório:
 
 ## BLOG
 Objetivo: criar a estrutura HTML para a página de post de um blog.
