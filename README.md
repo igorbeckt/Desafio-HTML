@@ -21,7 +21,7 @@ Objetivo: criar um glossário com no mínimo 4 tags HTML e suas definições.
 ## PAGINA DE RECEITAS
 Objetivo: criar uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo.
 
-<img src="https://github.com/igorbeckt/P-gina-de-receitas/raw/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-HTML-CSS/blob/master/PaginadeReceitas/assets/pronto.png?raw=true">
 
 ## PORTFÓLIO
 Objetivo: criar uma página web para que seja seu portfolio e currículo.
