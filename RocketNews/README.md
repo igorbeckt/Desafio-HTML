@@ -1,6 +1,6 @@
 # RocketNews
 Desafio "RocketNews" do Discover da Rocketseat. Desafio: Desenvolva uma página web simples utilizando HTML e CSS que servirá no futuro para captação de leads ou inscrição em newsletter.
-<img src="https://github.com/igorbeckt/RocketNews/blob/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-HTML-CSS/blob/master/RocketNews/assets/pronto.png?raw=true">
 **Requisitos para o desafio:**
 
 - Criar uma página que contenha um formulário para que o usuário possa inserir o e-mail.
