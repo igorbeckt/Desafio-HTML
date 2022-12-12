@@ -31,7 +31,7 @@ Objetivo: criar uma página web para que seja seu portfolio e currículo.
 ## QUIZ
 Objetivo: criar um quiz de perguntas e respostas, contendo no mínimo 3 perguntas com 4 opções de respostas cada.
 
-<img src="https://github.com/igorbeckt/RocketNews/raw/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafio-HTML/raw/master/Quiz/assets/pronto.png?raw=true">
 
 ## ROCKETNEWS
 Objetivo: Desenvolva uma página web simples utilizando HTML e CSS que servirá no futuro para captação de leads ou inscrição em newsletter.
