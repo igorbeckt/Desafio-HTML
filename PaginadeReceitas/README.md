@@ -1,7 +1,7 @@
 # Pagina-de-receitas
 Desafio "Página de Receita" do Discover da Rocketseat.
 Nesse desafio você deverá criar uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo. O desafio está dividido em duas partes, no primeiro momento você irá criar a estrutura HTML com as informações da receita e na segunda parte será o momento de adicionar os estilos à página com o CSS.
-<img src="https://github.com/igorbeckt/P-gina-de-receitas/blob/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafios-HTML-CSS/blob/master/PaginadeReceitas/assets/pronto.png?raw=true">
 ## Iniciando o projeto
 
 Para iniciar o projeto devemos criar a estrutura HTML base. Você deve iniciar **criando a pasta** onde vai colocar os arquivos do projeto e dentro dela você já pode criar o arquivo **index.html** que é onde vamos escreve o HTML da página da receita.
