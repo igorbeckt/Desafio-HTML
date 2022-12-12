@@ -49,4 +49,4 @@ Objetivo: criar uma lista de compras contendo no mínimo 4 itens.
 Social Tree
 Objetivo: criar uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 
-<img src="https://github.com/igorbeckt/social-tree/raw/master/assets/pronto.png?raw=true">
+<img src="https://github.com/igorbeckt/Desafio-HTML/raw/master/Quiz/assets/pronto.png?raw=true">
